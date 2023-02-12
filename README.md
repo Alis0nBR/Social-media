@@ -3,7 +3,7 @@
 # Description
  Rede social criada por amigos
 
-#Reponsaveis pelo projeto
+#Reponsaveis
 @Alis0nBR
 @Devjoselima
 @
