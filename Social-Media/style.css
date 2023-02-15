@@ -1,0 +1,65 @@
+nav {
+    padding-top: 10px;
+}
+
+.nav-list {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 0px 290px 0px 700px;
+    list-style: none;
+}
+
+.logo-list {
+    position: absolute;
+    left: 370px;
+    width: 90px;
+    height: 22px;
+}
+
+a {
+    text-decoration: none;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    color: #292929;
+}
+
+.entrar-list {
+    width: 44px;
+    height: 22px;
+    padding: 0px 18px 0px 18px;
+    border-radius: 5px;
+    border: 2px solid #292929;
+}
+
+.comida-oriental {
+    font-family: 'Inter';
+    font-size: 20px;
+    font-weight: 400;
+    position: absolute;
+    left: 360px;
+    top: 220px;
+}
+
+.hot-phila {
+    position: absolute;
+    width: 400px;
+    height: 534.7px;
+    left: 584px;
+    top: -25px;
+
+}
+
+.cardapio {
+    display: flex;
+    background-color: #da2535;
+    border-radius: 10px;
+    width: 64px;
+    height: 20px;
+    padding: 7px 60px;
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 18px;
+    color: #FBFBFB;
+}
